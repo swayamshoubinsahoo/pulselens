@@ -1,6 +1,6 @@
 # PulseLens: Multimodal Tele-Triage Assistant
 
-PulseLens AI is an intelligent clinical decision-support co-pilot designed to decentralize pre-screening and clinical documentation for rural, primary care, and resource-limited clinics.
+PulseLens is an intelligent clinical decision-support co-pilot designed to decentralize pre-screening and clinical documentation for rural, primary care, and resource-limited clinics.
 
 ## Key Features
 - Multimodal Intake: Analyzes patient narratives alongside clinical visual evidence (dermatology, lesions, wounds, trauma).
